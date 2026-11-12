@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "package": "com.chinaex123.freshness.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ContainerMenuMixin",
+    "CraftingMenuMixin",
+    "HopperBlockEntityMixin",
+    "InventoryMenuMixin",
+    "InventoryMixin",
+    "ItemEntityMixin",
+    "LivingEntityMixin",
+    "LootTableMixin",
+    "PlayerMixin",
+    "ResultSlotMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

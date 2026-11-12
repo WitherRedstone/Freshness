@@ -1,0 +1,17 @@
+{
+  "freshness.stage.fresh": "Fresh",
+  "freshness.stage.decent": "Decent",
+  "freshness.stage.near_expiry": "Near Expiry",
+  "freshness.stage.rotten": "Rotten",
+  "tooltip.freshness.stage": "Freshness: %s",
+  "tooltip.freshness.expiry": "Shelf life: %s",
+  "tooltip.freshness.expiry.fixed": "Shelf life: Never spoils",
+  "tooltip.freshness.expiry.rotten": "Shelf life: Rotten",
+  "tooltip.freshness.duration.days_hours": "%s d %s h",
+  "tooltip.freshness.duration.days": "%s d",
+  "tooltip.freshness.duration.hours_minutes": "%s h %s min",
+  "tooltip.freshness.duration.hours": "%s h",
+  "tooltip.freshness.duration.minutes": "%s min",
+  "tooltip.freshness.duration.seconds": "%s s",
+  "message.freshness.cannot_craft_rotten": "Rotten ingredients cannot be used for crafting"
+}

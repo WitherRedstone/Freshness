@@ -1,0 +1,17 @@
+{
+  "freshness.stage.fresh": "新鲜",
+  "freshness.stage.decent": "尚可",
+  "freshness.stage.near_expiry": "临期",
+  "freshness.stage.rotten": "腐烂",
+  "tooltip.freshness.stage": "新鲜度：%s",
+  "tooltip.freshness.expiry": "保质期：%s",
+  "tooltip.freshness.expiry.fixed": "保质期：不会变质",
+  "tooltip.freshness.expiry.rotten": "保质期：已腐烂",
+  "tooltip.freshness.duration.days_hours": "%s天%s小时",
+  "tooltip.freshness.duration.days": "%s天",
+  "tooltip.freshness.duration.hours_minutes": "%s小时%s分钟",
+  "tooltip.freshness.duration.hours": "%s小时",
+  "tooltip.freshness.duration.minutes": "%s分钟",
+  "tooltip.freshness.duration.seconds": "%s秒",
+  "message.freshness.cannot_craft_rotten": "腐烂的原料不能用于合成"
+}
